@@ -5,3 +5,18 @@ This project is for beginners and will teach you how to analyze the music playli
 
 
 The above project is performed on Postgre sql.
+
+Database and Tools
+1]   Postgre SQL
+2]   PgAdmin4
+
+
+
+
+
+
+
+Schema Diagram
+
+<img width="594" alt="schema_diagram" src="https://user-images.githubusercontent.com/129333658/230789230-c7ffc1a4-ae2d-4aa0-a14a-c4635e4a487f.png">
+
