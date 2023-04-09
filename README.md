@@ -6,13 +6,6 @@ This project is for beginners and will teach you how to analyze the music playli
 
 The above project is performed on Postgre sql.
 
-Database and Tools
-1]   Postgre SQL
-2]   PgAdmin4
-
-
-
-
 
 
 
